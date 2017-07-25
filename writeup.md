@@ -23,7 +23,7 @@
 
 
 2) ### Suggest possible improvements to your pipeline
-    1) Increase the thickess from 2 to 10 for better guidance 
+    1) Increase the thickness from 2 to 10 for better guidance 
     2) slope detection in solution in coming day's 
 
 
