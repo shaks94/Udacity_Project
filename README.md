@@ -19,7 +19,8 @@ You can see the Documentation of the below projct on Udacit site  https://in.uda
 
 You will find Project  Udacity_Projec folder 
 #####  Inside *_Udacity_Projec_* folder you will be able to view *_Test_imag.ipynb_* and *_Test_video.ipynb_*
-which is where the main magic is hidden (**code**) 
+@Where the main magic is hidden (**code**) 
+outputV is the folder where you will find the three mp4 video "Challenge.mp4, solidWhiteRight, solidYellowLeft" having correct result for solidWhiteRight and solidYellowLeft, but the third video correction and error handling is under progress
 
 ## License
 
@@ -27,3 +28,5 @@ yet to be Licensed, but till then it's open source,
 
 ### *Github repo link* :- https://github.com/shaks94/Udacity_Project
 ###### comamnd to colone the master branch :-git clone https://github.com/shaks94/Udacity_Project
+## Task not yet completed
+*C*hallenge video is yet return the true result and it's under **progress**
