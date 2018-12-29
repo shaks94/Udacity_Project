@@ -7,7 +7,7 @@ Series of Image are transfered in to a pipline in order to get the expected outp
 You can see the Documentation of the below projct on Udacit site  https://in.udacity.com
 
 ## prerequisite **knowledge**
-1) pyton
+1) python
 2) numpy
 3) matplotlib
 4) moviepy
